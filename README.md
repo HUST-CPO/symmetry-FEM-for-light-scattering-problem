@@ -1,5 +1,5 @@
 # symmetry-FEM-for-light-scattering-problem
-![image](/figure/Fig1.png)
+![image](figure/Fig1.png)
 ## Overview
 The Open-source MATLAB package Symmetry FEM is an optical finite element program used for scattering problems. Based on the symmetry in group theory, it can divide the original problem into several sub-tasks and truncate the computational domain. This program significantly enhances the computational efficiency for scattering problems. We provided examples of mirror symmetry and rotational symmetry, respectively.
 
@@ -16,4 +16,4 @@ The Open-source MATLAB package Symmetry FEM is an optical finite element program
 
 ## Run examples
 Run the script `Main_StandardFEM_rotation_TE`/`Main_SymmetryFEM_rotation_TE.m`/`Main_StandardFEM_mirror_TM.m`/`Main_SymmetryFEM_mirror_TM.m`.
-![image](/figure/Fig2.png)
+![image](figure/Fig2.png)
