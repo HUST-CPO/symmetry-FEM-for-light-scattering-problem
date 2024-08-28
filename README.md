@@ -18,6 +18,6 @@ The Open-source MATLAB package Symmetry FEM is an optical finite element program
 
 ## Run examples
 Run the script `Main_StandardFEM_mirror_TM.m`/`Main_SymmetryFEM_mirror_TM.m`to calculate mirror symmetry example.
-Run the script `Main_StandardFEM_rotation_TE`/`Main_SymmetryFEM_rotation_TE.m` to calculate rotation symmetry example.
+Run the script `Main_StandardFEM_rotation_TE.m`/`Main_SymmetryFEM_rotation_TE.m` to calculate rotation symmetry example.
 
 ![image](figure/Fig2.png)
