@@ -2,6 +2,7 @@ function [xt,yt,pt,nbrPoints]=GetGuassPoints(order)
 %input order
 %output xt yt pt nbrPoints
 
+
 if order==1 
     nbrPoints=1;
     xt=0.333333333333333;
