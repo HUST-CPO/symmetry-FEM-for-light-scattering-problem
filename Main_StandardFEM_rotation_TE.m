@@ -52,5 +52,5 @@ Et=solver.x;
 
 
 %plot
-PlotE(Mesh.vertex,Mesh.tri,real(Ex),0);
+PlotnormE(Mesh.vertex,Mesh.tri,Ex,Ey,0,0);
 % PlotTri(Mesh.vertex,Mesh.tri);
